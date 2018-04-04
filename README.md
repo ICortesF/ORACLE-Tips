@@ -5,3 +5,4 @@
 ```[SQL]
 select * from ALL_TABLES;
 ```
+[http://systemadmin.es/2009/10/listar-totas-las-tablas-en-oracle](URL "Fuente")
