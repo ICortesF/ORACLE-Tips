@@ -10,3 +10,10 @@ select * from ALL_TABLES;
 ```[SQL]
 select * from all_tab_columns where table_name ='NOMBRETABLA'
 ```
+## Equivalente al top en SQL
+```[SQL]
+SELECT column_name(s)
+FROM table_name
+WHERE condition
+LIMIT number;
+```
